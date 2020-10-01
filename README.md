@@ -27,7 +27,7 @@ This is how you will write image code for INTERNALLY STORED images on your repo.
 ~~~
 <img src="images/Base.jpg" alt="The Base" width="200">
 ~~~
-<img src="(https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpge)" width="100">
+<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="100">
 
 ### Reflection
 
@@ -51,7 +51,8 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
-<img src="(https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpge)" width="100">
+<img src="https://github.com/lmcmind85/GitHub-Basic_Onshape_CAD/blob/master/Screenshot%202020-09-29%20at%2012.50.58%20PM.png?raw=true" width="100">
+
 
 ### Reflection
 
