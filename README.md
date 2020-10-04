@@ -20,7 +20,7 @@ We are creating a caster.
 The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges. 25mm wide center hole.
 
 ### Evidence
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+[The Base in Onshape](https://cvilleschools.onshape.com/documents/220e283b758f19cc0b5e016e/w/b99eaa03907efb32ba77c17f/e/48e37ca861b914e94113693a)
 
 ### Image
 This is how you will write image code for INTERNALLY STORED images on your repo.   just FYI.
@@ -51,12 +51,16 @@ The Second part is a mount for the following part. The dimensions are 100mm x 10
 
 ### Evidence
 
+[The Mount in Onshape](https://cvilleschools.onshape.com/documents/220e283b758f19cc0b5e016e/w/b99eaa03907efb32ba77c17f/e/48e37ca861b914e94113693a)
+
 ### Image
 
 <img src="https://github.com/lmcmind85/GitHub-Basic_Onshape_CAD/blob/master/Screenshot%202020-09-29%20at%2012.50.58%20PM.png?raw=true" width="100">
 
 
 ### Reflection
+
+This wasn't very hard and it was very similar the part prior. While creating the first extrude selecting *new* makes it a whole new part in the same document. I almost missed this and it would have caused furture problems for me
 
 ---
 
