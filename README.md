@@ -31,14 +31,8 @@ This is how you will write image code for INTERNALLY STORED images on your repo.
 
 ### Reflection
 
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
-
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
+This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4) To be honest,I don't feel that I learned any new things. On the otherhand I feel basic familarty and sense of fuidity increase (short cut keys)
+Onshape is really nice and renaming sketches is very helpful. 
 
 ---
 
@@ -47,7 +41,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
-The Second part is a mount for the following part. The dimensions are 100mm x 100mm and 8mm thick. There are 4 10mm wide holes 20mm from edge in each cornet and a  25mm wide center hole
+The Second part is a mount to attach to the base for the next part. The dimensions are 100mm x 100mm and 8mm thick. There are 4 10mm wide holes 20mm from edge in each corner and a 25mm wide center hole
 
 ### Evidence
 
@@ -60,7 +54,7 @@ The Second part is a mount for the following part. The dimensions are 100mm x 10
 
 ### Reflection
 
-This wasn't very hard and it was very similar the part prior. While creating the first extrude selecting *new* makes it a whole new part in the same document. I almost missed this and it would have caused furture problems for me
+This part was very similar the part prior and took little time. While creating the first extrude selecting *new* will make it as whole new part in the same Onshape document. I almost missed this and it would have caused furture problems for me.
 
 ---
 
