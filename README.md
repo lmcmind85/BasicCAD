@@ -63,11 +63,19 @@ This part was very similar the part prior and took little time. While creating t
 
 ### Description
 
+The third part is a Fork to be attched to the mount and hold the wheel. The Main Circle is 80mm and 8mm thick. The Arms are and 40mm by 5 mm rectangle 15 mm from the origin extruded 75 mm. 15mm fillets on top edges of arms extrude. 1mm fillets on edges of prior fillet. 5mm fillet on bottom edged of Arms extrude. Arm is mirrored over Front Plane. 10mm hole 15mm from top of arm through all. Pole is made by a 20mm and a 5mm circle on other side of the Main Circle concentric to origin,then extruded. Champfer Main circle edges and top edge of Pole by 1mm.
+
 ### Evidence
+
+[The Fork in Onshape](https://cvilleschools.onshape.com/documents/220e283b758f19cc0b5e016e/w/b99eaa03907efb32ba77c17f/e/48e37ca861b914e94113693a)
 
 ### Image
 
+<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Screenshot%202020-10-05%20at%207.10.36%20PM.png?raw=true" width="100">
+
 ### Reflection
+
+First uses of Fillet (shift-f), Champfer (None), and mirror (none). I had to rename Extrudes to refer to in description,
 
 ---
 
