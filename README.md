@@ -96,7 +96,7 @@ The forth part is a Tire that will be attached to the Rim which will be attached
 
 ### Reflection
 
-This part is fairly simple yet intoduces some important information to learn. This is first use of the Revolve tool (none) and .[in Dr. Sheilds video].(https://www.youtube.com/watch?time_continue=181&v=ReEGioIYSus&feature=emb_title) he explains when creating demensions that going oover the center line will change the dimesion value from radisu to diameter.
+This part is fairly simple yet intoduces some important information to learn. This is first use of the Revolve tool (none) and  [in Dr. Sheilds video](https://www.youtube.com/watch?time_continue=181&v=ReEGioIYSus&feature=emb_title) he explains when creating demensions that going oover the center line will change the dimesion value from radisu to diameter.
  
 ---
 
