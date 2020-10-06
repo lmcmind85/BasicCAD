@@ -84,12 +84,20 @@ First uses of Fillet (shift-f), Champfer (None), and mirror (none). I had to ren
 
 ### Description
 
+The forth part is a Tire that will be attached to the Rim which will be attached to the Fork. The dimmensions of the Wheel sketch is a trapazoid with a 20mm bottom side with 10 degree sides from the verticle construction line. The inner open space of the wheel is 80mm meanwile the compleate diameteret edged to edge is 110 mm. Revolve the Wheel sketch to creat the wheel. Fillet top outer edged of Wheel revolve 8 mm.
+
 ### Evidence
+
+[The Tire in Onshape](https://cvilleschools.onshape.com/documents/0dfb53462fa7bac6dd9b1cba/w/e64599195b87f42e072fdcdf/e/33baf676d790845be69aecf8)
 
 ### Image
 
+<img src="https://github.com/lmcmind85/GitHub-Basic_Onshape_CAD/blob/master/Screenshot%202020-09-29%20at%2012.50.58%20PM.png?raw=true" width="100">
+
 ### Reflection
 
+This part is fairly simple yet intoduces some important information to learn. This is first use of the Revolve tool (none) and .[in Dr. Sheilds video].(https://www.youtube.com/watch?time_continue=181&v=ReEGioIYSus&feature=emb_title) he explains when creating demensions that going oover the center line will change the dimesion value from radisu to diameter.
+ 
 ---
 
 
