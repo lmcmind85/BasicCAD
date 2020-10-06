@@ -92,7 +92,7 @@ The forth part is a Tire that will be attached to the Rim which will be attached
 
 ### Image
 
-<img src="https://github.com/lmcmind85/GitHub-Basic_Onshape_CAD/blob/master/Screenshot%202020-09-29%20at%2012.50.58%20PM.png?raw=true" width="100">
+<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Screenshot%202020-10-06%20at%2010.59.43%20AM.png?raw=true" width="100">
 
 ### Reflection
 
