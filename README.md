@@ -49,7 +49,7 @@ The Second part is a mount to attach to the base for the next part. The dimensio
 
 ### Image
 
-<img src="https://github.com/lmcmind85/GitHub-Basic_Onshape_CAD/blob/master/Screenshot%202020-09-29%20at%2012.50.58%20PM.png?raw=true" width="100">
+<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Images/Screenshot%202020-09-29%20at%2012.50.58%20PM.png?raw=true" width="100">
 
 
 ### Reflection
@@ -71,7 +71,7 @@ The third part is a Fork to be attched to the mount and hold the wheel. The Main
 
 ### Image
 
-<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Screenshot%202020-10-05%20at%207.10.36%20PM.png?raw=true" width="100">
+<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Images/Screenshot%202020-10-05%20at%207.10.36%20PM.png?raw=true" width="100">
 
 ### Reflection
 
@@ -92,7 +92,7 @@ The forth part is a Tire that will be attached to the Rim which will be attached
 
 ### Image
 
-<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Screenshot%202020-10-06%20at%2010.59.43%20AM.png?raw=true" width="100">
+<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Images/Screenshot%202020-10-06%20at%2010.59.43%20AM.png?raw=true" width="100">
 
 ### Reflection
 
@@ -105,7 +105,7 @@ This part is fairly simple yet intoduces some important information to learn. Th
 
 ### Description
 
-This part is what the tire will go around and will be attahced to the Fork. The Wheel sketch for the main revolve looks like this <img src="https://github.com/lmcmind85/BasicCAD/blob/master/Screenshot%202020-10-13%20at%2011.01.46%20AM.png?raw=true" width="125"> (10mm inner diameter and 80mm outer diameter) and is symetric with the origin and the outer verticle lines are conceentric. Revolving this sketch over the horizantle consruction line will give you the basis of the Wheel. To create the spokes create a sketch on the face of Wheel Revolve and cut highlighted area. <img src="https://github.com/lmcmind85/BasicCAD/blob/master/Screenshot%202020-10-13%20at%2011.39.52%20AM.png?raw=true" width="125">  Add a 2 mm fillet on the 4 inner edges of Spoke extrude. Create a circular feture patern of the spoke and prior fillet on the the face of Wheel revolve with 5 repetitions. Add 1 mm fillet to either side of on the face of Wheel revolve.
+This part is what the tire will go around and will be attahced to the Fork. The Wheel sketch for the main revolve looks like this <img src="https://github.com/lmcmind85/BasicCAD/blob/master/Images/Screenshot%202020-10-13%20at%2011.01.46%20AM.png?raw=true" width="125"> (10mm inner diameter and 80mm outer diameter) and is symetric with the origin and the outer verticle lines are conceentric. Revolving this sketch over the horizantle consruction line will give you the basis of the Wheel. To create the spokes create a sketch on the face of Wheel Revolve and cut highlighted area. <img src="https://github.com/lmcmind85/BasicCAD/blob/master/Images/Screenshot%202020-10-13%20at%2011.39.52%20AM.png?raw=true" width="125">  Add a 2 mm fillet on the 4 inner edges of Spoke extrude. Create a circular feture patern of the spoke and prior fillet on the the face of Wheel revolve with 5 repetitions. Add 1 mm fillet to either side of on the face of Wheel revolve.
 
 ### Evidence
 
@@ -114,7 +114,7 @@ This part is what the tire will go around and will be attahced to the Fork. The 
 
 ### Image
 
-<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Screenshot%202020-10-13%20at%2011.39.52%20AM.png?raw=true" width="125">
+<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Images/Screenshot%202020-10-13%20at%2012.22.32%20PM.png?raw=true" width="125">
 
 ### Reflection
 
