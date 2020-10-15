@@ -127,11 +127,29 @@ This part was similar to the last part with some more steps and details. Having 
 
 ### Description
 
+The Axle is a 60mm long hollow pipe with an outer diameter of 10mm and inner diameter of 6mm. There is a 10mm deep cut in the axle 4.5mm above the origin on the face of Axle extrude. Reflect the cut to other side of the Axle.
+
+The collar is a 10mm long cylinder that has an outer diameter of 15 mm and and an inner diameter of 10mm with a 3mm hole on the middle of the side.
+
+The bearing is a 5mm long cylinder with an inner diameter of 10mm and an outer diameter of 25mm.
+
+The big bearing is 5mma long cylinder with an inner diameter of 20mm and an outer diameter of 30mm 
+
 ### Evidence
+
+[The Axle/Collar in Onshape](https://cvilleschools.onshape.com/documents/c3a00428daa468fdb8e3f18b/w/d9df69bce4a86d874c626f3c/e/0de462f5f931bcde25d04d97)
+
+[The Bearing in Onshape](https://cvilleschools.onshape.com/documents/0dfb53462fa7bac6dd9b1cba/w/e64599195b87f42e072fdcdf/e/33baf676d790845be69aecf8)
+
+[The Big Bearing in Onshape](https://cvilleschools.onshape.com/documents/220e283b758f19cc0b5e016e/w/b99eaa03907efb32ba77c17f/e/48e37ca861b914e94113693a)
 
 ### Image
 
+
+
 ### Reflection
+
+All of these parts are fairly simple and quick. They are important for the assembly of the Caset
 
 ---
 
