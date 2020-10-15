@@ -195,6 +195,8 @@ This is the full Caster Assembly. Use the fasten mate to mate the origin to the 
 
 ### Reflection
 
+This the End of building the Caster. While assembling I noticed a couple issues in some of my parts. Example my Fork Arms were 15mm from the orgin fromthe center of the rectange and not the bottom line. The Engineering notebook and being organized in Onshape (Multi-Part Studios) made it very easy to go back a reveiw, make changes, see what those chnages do, and then either see you've fixed it or if you need revert and continue to fix the problem. 
+
 ---
 
 
