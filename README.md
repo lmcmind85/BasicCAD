@@ -12,6 +12,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [Wheel/Tire/Bearing,Axle,Sub-Assembly](#Wheel)
 
 ## Base
 
@@ -155,8 +156,29 @@ The big bearing is 5mma long cylinder with an inner diameter of 20mm and an oute
 
 ### Reflection
 
-All of these parts are fairly simple and quick. They are important for the assembly of the Caset
+All of these parts are fairly simple and quick. They are important for the assembly of the Castetr.
 
+## Wheel/Tire/Bearing,Axle,Sub-Assembly
+
+### Description
+
+This is a aub-assembly of the the Wheel, Tire, Bearing, and Axle. Use a fasten mate to mate the origin to the origin to the Wheel. Same with the tire. Use a revole mate to mate the origin to the origin of the Axle. Use a revolve mate to the outer origin of the bearing to the outer origin of the Wheel. There should be one Bearing on either side.
+
+### Evidence
+ 
+ [The Wheel/Tire/Bearing,Axle,Sub-Assembly in Onshape](https://cvilleschools.onshape.com/documents/d1f10378bda4e6ea6e95967c/w/c72b11adb012fe213c5d8f52/e/f5cd81fbbfff954b6dd66dbb)
+
+ 
+### Image
+
+<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Images/Screenshot%202020-10-15%20at%2010.37.30%20AM.png?raw=true" width="125">
+
+
+### Reflection
+
+This sub-assembly will make our final assmebky easier and it reflects how a caster wwould be assemble in real life. Due to having many multi-part studios finding all the parts to put in the assembly is easier.
+
+### 
 ---
 
 
