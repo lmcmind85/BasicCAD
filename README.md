@@ -199,4 +199,62 @@ This the End of building the Caster. While assembling I noticed a couple issues 
 
 ---
 
+We are making a picture frame
 
+* [Dowel Pins](#Dowel Pins)
+* [Frame](#Frame)
+
+## Dowel Pins
+
+### Description
+
+The dowel pins are a cylander with diameter of 1/4 inch and length configurations of 1 inch and 2 inches. Add 1mm champfer.
+
+### Evidence 
+
+[DowelPins]([The Dowel Pins in Onshape](https://cvilleschools.onshape.com/documents/9766daa676d68de30736d7e4/w/e23d86762ac7771e7f8680e1/e/a2996bd6a1a5485c24c1923f)
+
+### Image
+
+<img src="" width="400">
+
+### Reflection
+
+This was the first use of using configuartions. The Table is a easy way to label and manipulate all of your configuations. 
+
+## Frames
+### Description
+
+The Frame is a Trapezoid with bottom edge configurations of 10 inches and 8 inches and top edge configurations of 7 inches and 5 inches. The sides have bottom inner angles of 45 degrees. The Trapezoid is 1 inch thick. On the angled side sketch two 1/4 inch circles along equally distanced apart and formthe edges along the middle of the face. The cicle close to the longer side will become a 1/2 hole. The other will be a 1 inch whole. Mirror these extrudes across the trapezoid to the other angled side. 
+
+### Evidence 
+
+[Frame]([The Frame in Onshape](https://cvilleschools.onshape.com/documents/513c736eeaf84316ef617998/w/71fc22c66cf539e02283b72a/e/353294065242f174c2099881?configuration=List_9toj3fyKdqvYnN%3D_7%3BList_hXtXZTxRAFW7fi%3D_5_inch)
+
+
+### Image
+
+<img src="" width="400">
+
+### Reflection
+
+There are multiple configuraton tables: One for the top side and te other for the bottom sides. 
+
+## Picture Frame Assembly
+
+### Description
+
+The assmebly is done by adding 2 Frames with 10 inch top sides and 7 inch bottom sides and 2 other frames with 8 inch top side and 5 inch bottom side. Add 4 Dowel pins that are 1 inch long and 4 other Dowel Pins that are 2 inches long. Use revolute mates to mate the middle of the pin to edge of the whole. 1 inch pins go in 1/2 inch holes and the 2 inch pins go into the 1 inch wholes. Mate together all parts to for pricture frame
+
+### Evidence 
+
+[Picture Frame]([The Picture Frame in Onshape](https://cvilleschools.onshape.com/documents/513c736eeaf84316ef617998/w/71fc22c66cf539e02283b72a/e/353294065242f174c2099881?configuration=List_9toj3fyKdqvYnN%3D_7%3BList_hXtXZTxRAFW7fi%3D_5_inch)
+
+
+### Image
+
+<img src="" width="400">
+
+### Reflection
+
+Makeing the parts translucent made it easier to click the right areas for the the mates.
