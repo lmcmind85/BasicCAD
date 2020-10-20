@@ -201,10 +201,11 @@ This the End of building the Caster. While assembling I noticed a couple issues 
 
 We are making a picture frame
 
-* [Dowel Pins](#Dowel Pins)
-* [Frame Sides](#Frame Sides)
-* [Picture Frame Assembly](#Picture Frame Assembly)
-
+## Table of Contents
+* [Table of Contents](#Table-of-Contents)
+* [DowelPins](#Dowel Pins)
+* [FrameSides](#Frame Sides)
+* [PictureFrameAssembly](#Picture Frame Assembly)
 ## Dowel Pins
 
 ### Description
