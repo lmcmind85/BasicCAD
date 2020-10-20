@@ -202,7 +202,8 @@ This the End of building the Caster. While assembling I noticed a couple issues 
 We are making a picture frame
 
 * [Dowel Pins](#Dowel Pins)
-* [Frame](#Frame)
+* [Frame Sides](#Frame Sides)
+* [Picture Frame Assembly](#Picture Frame Assembly)
 
 ## Dowel Pins
 
@@ -216,13 +217,14 @@ The dowel pins are a cylander with diameter of 1/4 inch and length configuration
 
 ### Image
 
-<img src="" width="400">
+<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Images/Screenshot%202020-10-20%20at%207.30.14%20PM.png?raw=true" width="400">
 
 ### Reflection
 
 This was the first use of using configuartions. The Table is a easy way to label and manipulate all of your configuations. 
 
-## Frames
+## Frame Sides
+
 ### Description
 
 The Frame is a Trapezoid with bottom edge configurations of 10 inches and 8 inches and top edge configurations of 7 inches and 5 inches. The sides have bottom inner angles of 45 degrees. The Trapezoid is 1 inch thick. On the angled side sketch two 1/4 inch circles along equally distanced apart and formthe edges along the middle of the face. The cicle close to the longer side will become a 1/2 hole. The other will be a 1 inch whole. Mirror these extrudes across the trapezoid to the other angled side. 
@@ -234,7 +236,7 @@ The Frame is a Trapezoid with bottom edge configurations of 10 inches and 8 inch
 
 ### Image
 
-<img src="" width="400">
+<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Images/Screenshot%202020-10-20%20at%207.29.38%20PM.png?raw=true" width="400">
 
 ### Reflection
 
@@ -253,7 +255,7 @@ The assmebly is done by adding 2 Frames with 10 inch top sides and 7 inch bottom
 
 ### Image
 
-<img src="" width="400">
+<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Images/Screenshot%202020-10-20%20at%207.31.01%20PM.png?raw=true" width="400">
 
 ### Reflection
 
