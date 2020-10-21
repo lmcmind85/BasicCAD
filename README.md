@@ -143,7 +143,7 @@ The big bearing is 5mma long cylinder with an inner diameter of 20mm and an oute
 
 ### Image
 
-<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Images/Screenshot%202020-10-14%20at%2010.01.53%20PM.png?raw=true" width=400">
+<img src="https://github.com/lmcmind85/BasicCAD/blob/master/Images/Screenshot%202020-10-14%20at%2010.01.53%20PM.png?raw=true" width="400">
 
 <img src="https://github.com/lmcmind85/BasicCAD/blob/master/Images/Screenshot%202020-10-14%20at%2010.02.46%20PM.png?raw=true" width="400">
 
