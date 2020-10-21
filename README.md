@@ -228,7 +228,7 @@ This was the first use of using configuartions. The Table is a easy way to label
 
 ### Description
 
-The Frame is a Trapezoid with bottom edge configurations of 10 inches and 8 inches and top edge configurations of 7 inches and 5 inches. The sides have bottom inner angles of 45 degrees. The Trapezoid is 1 inch thick. On the angled side sketch two 1/4 inch circles along equally distanced apart and formthe edges along the middle of the face. The cicle close to the longer side will become a 1/2 hole. The other will be a 1 inch whole. Mirror these extrudes across the trapezoid to the other angled side. 
+The Frame is a Trapezoid with bottom edge configurations of 10 inches and 8 inches and top edge configurations of 7 inches and 5 inches. The sides have bottom inner angles of 45 degrees. The Trapezoid is 3/4 inch thick. On the angled side sketch two 1/4 inch circles along equally distanced apart and formthe edges along the middle of the face. The cicle close to the longer side will become a 1/2 hole. The other will be a 1 inch whole. Mirror these extrudes across the trapezoid to the other angled side. 
 
 ### Evidence 
 [The Frame in Onshape](https://cvilleschools.onshape.com/documents/513c736eeaf84316ef617998/w/71fc22c66cf539e02283b72a/e/353294065242f174c2099881?configuration=List_9toj3fyKdqvYnN%3D_7%3BList_hXtXZTxRAFW7fi%3D_5_inch)
@@ -240,7 +240,7 @@ The Frame is a Trapezoid with bottom edge configurations of 10 inches and 8 inch
 
 ### Reflection
 
-There are multiple configuraton tables: One for the top side and te other for the bottom sides. 
+There are multiple configuraton tables: One for the top side and te other for the bottom sides. I should have made the Frame Sides in the same document as the Dowel Pins but I didn't and didn't realize the mistake till I aleady made the parts.
 
 ## PictureFrameAssembly
 
