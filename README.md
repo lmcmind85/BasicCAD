@@ -39,7 +39,7 @@ Onshape is really nice and renaming sketches is very helpful.
 
 ### Description
 
-The Second part is a mount to attach to the base for the next part. The dimensions are 100mm x 100mm and 8mm thick. There are 4 10mm wide holes 20mm from edge in each corner and a 25mm wide center hole
+The Second part is a Mount to attach to the Base for the next part. The dimensions are 100mm x 100mm and 8mm thick. There are 4 10mm wide holes 20mm from edge in each corner and a 25mm wide center hole.
 
 ### Evidence
 
@@ -52,7 +52,7 @@ The Second part is a mount to attach to the base for the next part. The dimensio
 
 ### Reflection
 
-This part was very similar the part prior and took little time. While creating the first extrude selecting *new* will make it as whole new part in the same Onshape document. I almost missed this and it would have caused furture problems for me.
+This part was very similar the Base because of the corner holes and the center holes. In the assembly these holes should line up. While creating the first extrude selecting *new* will make it as whole new part in the same Onshape document. I almost missed this and it would have caused furture problems for me.
 
 ---
 
@@ -116,7 +116,7 @@ This part is what the Tire will go around and will be attached to the Fork. The 
 
 ### Reflection
 
-This part was similar to the last part with some more steps and details. Having a "multi-shape" sketch to revolve and was helpful to understand the more possibilities with this feature. 
+This part was similar to the Tire but with some more steps and details. Having a "multi-shape" sketch to revolve and was helpful to understand the more possibilities with this feature. 
 
 ---
 
@@ -153,7 +153,7 @@ The big bearing is 5mma long cylinder with an inner diameter of 20mm and an oute
 
 ### Reflection
 
-All of these parts are fairly simple and quick. They are important for the assembly of the Castetr.
+All of these parts are fairly simple and quick. The flat cut along the Axle is imporant for the screw that will go through the Collar. They are important for the assembly of the Castetr.
 
 ## Wheel/Tire/Bearing,Axle,Sub-Assembly
 
