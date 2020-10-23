@@ -52,7 +52,7 @@ The Second part is a Mount to attach to the Base for the next part. The dimensio
 
 ### Reflection
 
-This part was very similar the Base because of the corner holes and the center holes. In the assembly these holes should line up. While creating the first extrude selecting *new* will make it as whole new part in the same Onshape document. I almost missed this and it would have caused furture problems for me.
+This part was very similar to the Base because of the corner holes and the center holes. In the assembly these holes should line up. While creating the first extrude selecting *new* will make it as whole new part in the same Onshape document. I almost missed this and it would have caused furture problems for me.
 
 ---
 
